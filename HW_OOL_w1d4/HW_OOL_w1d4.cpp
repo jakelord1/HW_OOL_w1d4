@@ -66,5 +66,5 @@ public:
 };
 int main()
 {
-    cout << "Hello World!\n";
+    Abonent people[15];
 }
